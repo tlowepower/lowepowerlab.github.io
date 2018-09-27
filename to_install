@@ -1,0 +1,5 @@
+sudo apt get install build-essential ruby ruby-dev zlib1g-dev
+gem install bundler
+bundle install
+
+To run locally:  bundle exec jekyll serve  
