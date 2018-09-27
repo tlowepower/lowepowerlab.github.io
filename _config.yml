@@ -37,8 +37,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TLowePower"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
-      # XXX FIX THE ICON
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en"
 
 # Site Footer
@@ -49,7 +48,7 @@ footer:
       url: "https://twitter.com/TLowePower"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-instagram"
-      # XXX FIX THE ICON
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en"
 
 
@@ -187,6 +186,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
