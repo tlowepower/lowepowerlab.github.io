@@ -1,0 +1,30 @@
+---
+title: Teaching
+permalink: teaching
+---
+My teaching goal is to activate students’ enthusiasm and curiosity about science and to inspire the next generation of plant pathologists and microbiologists to solve emerging problems in agriculture and food security caused by a changing climate and the world’s growing population. 
+
+---
+
+**Teaching in the Classroom**
+
+I approach teaching like I approach research: with alternating phases of planning and optimization. I develop a climate of mutual respect by communicating high expectations and by practicing student-centered instruction. My two years as a Microbiology Teaching Fellow at UW-Madison helped me develop this teaching philosophy. 
+
+As a Teaching Fellow, I co-designed curriculum and was the sole instructor for two sections of a keystone undergrad course, Micro 305: Critical Analyses in Microbiology. This highly structured journal-club style class met weekly to train microbiology majors in critical thinking and public speaking. Studies overwhelmingly show the effectiveness of active, student-engaged learning (as opposed to passive absorption and memorization of lecture/reading content) (1). Pedagogy research also shows that less is more—courses and major curriculum cannot and should not merely teach an encyclopedic knowledge of biology anymore. In an era where technology is quickly changing, students are better served by classes with carefully selected content through which they are trained to become independent lifelong learners able to locate, critically assess, synthesize, and apply information. 
+
+In Micro 305, each week followed the same modular structure to discuss and learn from a current paper. After I framed the research topic in the broader microbiological and/or social context with a mini-lecture, students divided into peer-learning groups to identify the paper’s hypotheses and discuss the supporting or conflicting data. In synthesis, the class regrouped and shared their analyses. I implemented several strategies to increase student engagement and learning in my second year teaching Micro 305. Each strategy emerged when I observed a specific problem and devised and evaluated a solution. Some examples: Problem 1: Student attention was low during the mini-lecture. Solution: I hypothesized that students did not value the high-level information after they had already struggled to read the paper on their own. I reorganized the course structure to present the mini-lecture as a preview for the next paper they would read. Result: I observed fewer distracted student behaviors during the mini-lecture. Problem 2: Certain students often monopolized group discussions. Solution: I hypothesized that groups became stuck in a “follow the leader” rut when students self-sorted into the same groups. Result: when I randomized groups, student participation was more balanced during the peer discussions. Applying these feedback-driven teaching techniques improved student engagement and learning and convinced me in a practical way that a reflective, experimental mindset improves teaching like it improves bench research.
+
+Evidence of effective curriculum development: I enjoyed developing new curriculum for Micro 305. My module, “Cloudy with a chance of microbes” has been retained as the first module for six consecutive semesters. Centering around simple and elegant experiments to quantify microbial and abiotic activity in harvested clouds, this module was effective because it presented a clear scientific story about environmental microbiology in an exciting and interesting way. Being a Teaching Fellow cemented my confidence that I both wanted to teach and could teach effectively. 	
+
+---
+ 
+**Teaching through Mentoring**
+
+Mentoring undergraduate, graduate, and post-doctoral scientists at the bench is an integral element of a strong research program and the most rewarding aspects of an academic career. I have been fortunate to have excellent mentors who fostered my passion for biological inquiry and taught me the importance of intellectual teamwork. I plan to similarly train students to think independently by experimentally testing hypotheses in collaborative research groups to achieve our goals.
+
+Listening is a key first step in good mentoring because mentoring is not a one-size-fits all exercise. My own mentees taught me that an effective strategy must be tailored to the mentee’s strengths, needs, and career stage. I will train my students and postdocs to be their “own best mentor,” as we collaborate to find the best ways to support their growth as scientists and professionals. My ideal research group should be small enough for weekly one-on-one meetings with each member, but large enough to maintain a vibrant intellectual and collaborative environment where lab members peer-mentor and support each other. As my students gain confidence and intellectual independence, I plan to take a back seat and allow them to drive their projects in the direction of their interests. In addition to developing technical skills, I will encourage them to develop their own leadership and mentoring skills through workshops. 
+
+I have directly advised and collaborated with four undergraduate researchers. Undergraduate researchers initially demand a lot of hands-on time as they master specific technical research skills. As their skills develop, I transition them to greater independence in planning, conducting, and presenting their research. Additionally, I formally supervised four rotation students and trained two visiting graduate students. I peer-mentored junior graduate students in writing, presentation, experimental design, and research planning. 
+
+I am always looking for opportunities to incorporate ideas and pedagogical techniques into my teaching and mentoring—for example, I took a leadership workshop on managing scientists. I believe my mentoring and teaching experience will transfer seamlessly to teaching diverse students in the classroom and advising students in their research.
+

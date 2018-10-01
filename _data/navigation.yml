@@ -1,4 +1,9 @@
 # main links
 main:
+  - title: "CV"
+    url: /assets/cv_lowepower.pdf
   - title: "Publications"
     url: /papers
+  - title: "Teaching"
+    url: /teaching    
+

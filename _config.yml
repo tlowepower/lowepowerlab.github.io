@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast"
 locale                   : "en-US"
 title                    : "Tiffany Lowe-Power"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Tiffany Lowe-Power"
 description              : "Academic webpage"
 url                      : https://tlowepower.github.io
 repository               : tlowepower/tlowepower.github.io
@@ -29,7 +29,7 @@ words_per_minute         : 200
 author:
   name             : "Tiffany Lowe-Power"
   avatar           : "/assets/portrait_lowepower.jpg"
-  bio              : "USDA NIFA Fellow unraveling the mysteries of xylem-dwelling bacteria. ."
+  bio              : "USDA NIFA Fellow unraveling the mysteries of xylem-dwelling bacteria."
   location         : "UC Berkeley"
   email            : tlowepower@berkeley.edu
   links:
@@ -39,6 +39,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://orcid.org/0000-0003-2681-3563"
 
 # Site Footer
 footer:
@@ -47,9 +50,11 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TLowePower"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
       icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://orcid.org/0000-0003-2681-3563"
 
 
 # Reading Files
@@ -127,7 +132,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 # mimic GitHub Pages with --safe
@@ -135,7 +139,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 
