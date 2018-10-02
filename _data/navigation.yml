@@ -5,5 +5,7 @@ main:
   - title: "Publications"
     url: /papers
   - title: "Teaching"
-    url: /teaching    
+    url: /teaching
+  - title: "Open Science"
+    url: /open_science      
 
