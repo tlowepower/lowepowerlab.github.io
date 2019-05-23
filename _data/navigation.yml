@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "CV"
-    url: /assets/cv_lowepower.pdf
-  - title: "Publications"
+  - title: "People"
+    url: /people
+  - title: "Research"
     url: /papers
-  - title: "Teaching"
-    url: /teaching
-  - title: "Open Science"
-    url: /open_science      
+  - title: "Join the Lab!"
+    url: /join_us
+  - title: "Resources"
+    url: /resources     
 
