@@ -13,8 +13,10 @@ permalink: /resources/
 * [Maps to Common/published plasmids]((/assets/papers/pub_ralstonia_trends_review_flow.pdf))
 
 ## Data Visualization & Presentation Resources
-* An assortment of tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
+* An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
 * Scientific illustration resource: [Margaret Senior Plant Disease Bulletins](https://livinghistories.newcastle.edu.au/nodes/index/page:4/q:SAGN/source:2) 
+* [Plant Illustrations Figshare Group](https://figshare.com/authors/Plant_Illustrations/3773596)
+* [BioRender platform for biological figure design](https://biorender.com/) Note: The free version exports with watermarks. 
 
 # Career / professional development resources
 
