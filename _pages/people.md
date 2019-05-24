@@ -23,5 +23,15 @@ The Lowe-Power lab is actively recruiting at the postdoc, PhD, and undergraduate
 
 For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
+#wUndergrad Researchers
 
+![Katie Shalvarjian](/assets/people/portrait_shalvarjian.jpg){: .align-left width="200px"}
+**Katie Shalvarjian** <br> 
+**Twitter**: t.b.a. <br>
+<br><br>
+**BS Microbial Biology** UC Berkeley
+
+Katie is a Summer Undergraduate Research Fellow working with Dr. Lowe-Power in the Lindow lab at Berkeley to investigate <i>Ralstonia solacearum</i>'s growth requirements in tomato xylem sap. 
+
+For fun: Rock climbing, baking bread, hiking
  
