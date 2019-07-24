@@ -18,9 +18,6 @@ permalink: /resources/
 * [Plant Illustrations Figshare Group](https://figshare.com/authors/Plant_Illustrations/3773596)
 * [BioRender platform for biological figure design](https://biorender.com/) Note: The free version exports with watermarks. 
 
-## Bioinformatics
-* Stratton's [bioinformatics course webpage](http://www.marcottelab.org/index.php/BCH339N_2018) with useful bioinformatics information, articles, databases, etc. compiled and created by Dr. Edward Marcotte of UT--Austin
-
 # Career / professional development resources
 
 * Tool: The most intuitive meeting scheduling tool [www.when2meet.com](www.when2meet.com)
