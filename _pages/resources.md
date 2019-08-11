@@ -27,7 +27,10 @@ permalink: /resources/
 * Article: ['Growth Mindset' vs 'Fixed Mindset'](http://mindsetscholarsnetwork.org/learning-mindsets/growth-mindset/). Adopting a growth mindset might improve your resilience to the imposter syndrome. 
 * Article: [Tips for PhD students & early career researchers](http://www.opiniomics.org/tips-for-phd-students-and-early-career-researchers/)
 * Article: [The quest for postdoctoral independence: How to step out from the shadow of your principal investigator](https://www.nature.com/articles/d41586-018-06794-3)
-* Social Network: [Early Career Researcher Central](https://ecrcentral.org/) by Elife. 
+* Resource: Writing letters of recommendation with less implicit bias. 
+  * [Quick Guide](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf).  
+  * [Long form: Workshop on reducing implicit bias in letters](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
+
 
 # Writing Resources
 
