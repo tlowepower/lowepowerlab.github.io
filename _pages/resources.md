@@ -32,7 +32,7 @@ permalink: /resources/
   * [Long form: Workshop on reducing implicit bias in letters](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
 
 
-# Writing Resources
+# Science Communication (#SciComm) Resources
 
 ## Scientific Writing
 * Getting started: [An Ode to the Shitty First Draft](https://writingcooperative.com/an-ode-to-all-of-my-shitty-first-drafts-8312e86130c8?gi=dec43175b8e7) by Angely Mercado. 
@@ -40,10 +40,19 @@ permalink: /resources/
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
 * Abstracts: [Annotated example of how to write an abstract (aka Summary) ](https://twitter.com/tpoi/status/1100105516456570880)
 
-### Conferences
+## Conferences / Talks / Posters
+
+### Abstracts
 * [Why and how to write abstracts for conferences](https://www.apsnet.org/meetings/2019/program/Pages/WritingBetterAbstracts.aspx) by David Gadoury
+
+### Talks
+* [Guide to preparing a research talk](https://luispedro.github.io/talk-scientific-communication) by Luis Pedro Coelho
+
+### Posters
 * Guides to printing scientific posters on wrinkle-free cloth through Spoonflower.com. [Guide 1](https://www.ascb.org/careers/how-to-print-a-fabric-poster/) and [Guide 2](https://support.spoonflower.com/hc/en-us/articles/204266984-How-to-Create-a-Fabric-Presentation-Poster-from-a-PowerPoint-or-PDF).  Plan for 10 business for printing & shipping.
 * [Better Poster Blog](http://betterposters.blogspot.com/). Although I don't perfectly agree with this authors' opinions, they have suggestions on how to improve scientific poster design. 
+
+### Conference Advice
 * [Advice on how to get the most out of a conference and maintain your sanity](https://www.nature.com/articles/d41586-019-01631-7)
 
 
