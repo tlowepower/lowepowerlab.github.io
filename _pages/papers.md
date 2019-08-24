@@ -19,6 +19,8 @@ Metabolomics of tomato xylem sap during bacterial wilt reveals *Ralstonia solana
 **Tiffany Lowe-Power**, Hendrich C, Von Roepenack-Lahaye E, Li B, Wu D, Mitra R, Dalsing BL, Ricca P, Naidoo J, Cook D, Jancewicz A, Masson P, Thomma B, Lahaye T, Michael AJ, Allen C. *Environmental Microbiology* [Download PDF](/assets/papers/pub_xylem_metabo_put.pdf){: .btn .btn--info .btn--small}
 
 <br>
+<br>
+<br>
 
 ---
 **2017**
@@ -29,7 +31,8 @@ Metabolomics of tomato xylem sap during bacterial wilt reveals *Ralstonia solana
 The major *Ralstonia solanacearum* virulence regulator PhcA controls pathogen attachment, spread, and metabolic capacity during plant infection.
 Khokhani DK, **Tiffany Lowe-Power**, Tran TM, Allen C. *mBio* [Download PDF](/assets/papers/pub_phcA_transcriptome.pdf){: .btn .btn--info .btn--small} 
 
-<br><br><br>
+<br><br><br><br>
+
 
 ![Clavibacter symptoms on tomato fruit](/assets/papers/pub_clavi_ralsto_expansins.png){: .align-left width="250px"}
 
@@ -77,6 +80,8 @@ Ailloud F, **Tiffany Lowe**, Cruveiller S, Robene I, Allen C, Prior P. *PeerJ* [
 
 <br>
 
+<br>
+<br>
 <br>
 
 <br>
