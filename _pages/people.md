@@ -3,10 +3,6 @@ title: People
 permalink: /people/
 ---
 
-## You could be here!
-
-The Lowe-Power lab is actively recruiting at the postdoc, PhD, and undergraduate levels. Please see details [here](/join_us)
-
 ## Principal Investigator
 
 ![Tiffany Lowe-Power, PhD](/assets/people/portrait_lowepower.jpg){: .align-left width="200px"}
