@@ -11,7 +11,7 @@ permalink: papers
 
 How *Ralstonia solanacearum* exploits and thrives in the flowing plant xylem environment. **Tiffany Lowe-Power**, Devanshi Khokhani, Caitilyn Allen. *Trends in Microbiology* [Download PDF](/assets/papers/pub_ralstonia_trends_review_flow.pdf){: .btn .btn--info .btn--small}
 
-
+<br><br>
 
 ![Summary of bacterial wilt metabolome](/assets/papers/pub_xylem_metabo_put.png){: .align-left width="250px"}
 
@@ -29,7 +29,7 @@ Metabolomics of tomato xylem sap during bacterial wilt reveals *Ralstonia solana
 The major *Ralstonia solanacearum* virulence regulator PhcA controls pathogen attachment, spread, and metabolic capacity during plant infection.
 Khokhani DK, **Tiffany Lowe-Power**, Tran TM, Allen C. *mBio* [Download PDF](/assets/papers/pub_phcA_transcriptome.pdf){: .btn .btn--info .btn--small} 
 
-<br>
+<br><br><br>
 
 ![Clavibacter symptoms on tomato fruit](/assets/papers/pub_clavi_ralsto_expansins.png){: .align-left width="250px"}
 
@@ -56,7 +56,7 @@ Degradation of the plant defense signal salicylic acid protects *Ralstonia solan
 Functional identification of putrescine *C*- and *N*-hydroxylases.
 Li B, **Tiffany Lowe-Power**, Kurihara S, Gonzales S, Naidoo J, MacMillan JB, Allen C, Michael AJ. *ACS Chemical Biology* [Download PDF](/assets/papers/pub_hydroxy_putrescine.pdf){: .btn .btn--info .btn--small}
 
-<br><br>
+<br><br><br><br><br>
 
 Interactions between bacteria and aspen defense chemicals at the phyllosphere-herbivore interface.
 Charlie Mason, **Tiffany Lowe-Power**, Kennedy Rubert-Nason, Rick Lindroth, Ken Raffa. *Journal of Chemical Ecology* [Download PDF](/assets/papers/pub_aspen_beetles_phenolics.pdf){: .btn .btn--info .btn--small}
@@ -68,7 +68,7 @@ Spraker J, Sanchez L, **Tiffany Lowe**, Dorrestein P, Keller N. *ISME Journal* [
 
 <br>
 
-<br>
+<br><br><br>
 
 ![Transcriptome experimental design](/assets/papers/pub_ralsto_banana_moko_transcriptome.png){: .align-left width="250px"}
 
@@ -97,7 +97,7 @@ Hydroxycinnamic acid degradation, a broadly conserved trait, protects *Ralstonia
 Comparative genomic analysis of *Ralstonia solanacearum* reveals candidate genes for host specificity.
 Ailloud F, **Tiffany Lowe**, Cellier G, Roche D, Allen C, Prior P. *BMC Genomics* [Download PDF](/assets/papers/pub_ralsto_banana_moko_genomics.pdf){: .btn .btn--info .btn--small}
 
-<br>
+<br><br>
 
 ![Vibrio genomics blast identity](/assets/papers/pub_vibriopara_genomics.jpg){: .align-left width="250px"}
 
