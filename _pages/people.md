@@ -32,7 +32,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 ![Katie Shalvarjian](/assets/people/portrait_shalvarjian.jpg){: .align-left width="200px"}
 **Katie Shalvarjian** <br> 
-**Twitter**: t.b.a. <br>
+**Twitter**: [@kshalv](https://twitter.com/kshalv) <br>
 <br><br>
 **BS Microbial Biology** UC Berkeley
 
