@@ -20,7 +20,8 @@ Metabolomics of tomato xylem sap during bacterial wilt reveals *Ralstonia solana
 
 <br>
 <br>
-<br>
+<br><br>
+
 
 ---
 **2017**
@@ -40,7 +41,9 @@ Plant-like bacterial expansins play contrasting roles in two tomato vascular pat
 Tancos M, **Tiffany Lowe-Power**, Peritore-Galve C, Tran T, Allen C, Smart C. *Molecular Plant Pathology* [Download PDF](/assets/papers/pub_clavi_ralsto_expansins.pdf){: .btn .btn--info .btn--small}
 
 
+<br><br>
 <br>
+
 
 ---
 
@@ -80,6 +83,7 @@ Ailloud F, **Tiffany Lowe**, Cruveiller S, Robene I, Allen C, Prior P. *PeerJ* [
 
 <br>
 
+<br>
 <br>
 <br>
 <br>
