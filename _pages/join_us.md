@@ -3,7 +3,7 @@ title: Join the Lab!
 permalink: join_us
 ---
 
-We are recruiting people motivated to understand how bacteria interact with their plant hosts. We currently have openings for undergraduate students, graduate students, and postdocs. Expectations for members of the lab are described in the [Lowe-Power lab mentor/mentee contract](assets\resources\mentoring_contract_lowepowerlab.docx).
+We are happy to discuss opportunities with people motivated to understand how bacteria interact with their plant hosts. Expectations for members of the lab are described in the [Lowe-Power lab mentor/mentee contract](assets\resources\mentoring_contract_lowepowerlab.docx). The lab's [onboarding info / handbook](https://github.com/lowepowerlab/protocols/blob/master/onboarding.md) might also be of interest. 
 
 ## Undergraduates
 
