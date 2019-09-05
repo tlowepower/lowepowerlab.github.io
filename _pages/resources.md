@@ -10,7 +10,6 @@ permalink: /resources/
 
 ## Experimental (Methods, training resources, etc)
 * [Lowe-Power lab protocols](https://github.com/lowepowerlab/protocols)
-* [Maps to Common/published plasmids]((/assets/papers/pub_ralstonia_trends_review_flow.pdf))
 
 ## Data Visualization & Presentation Resources
 * An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
