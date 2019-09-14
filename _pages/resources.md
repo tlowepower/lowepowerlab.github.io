@@ -11,6 +11,12 @@ permalink: /resources/
 ## Experimental (Methods, training resources, etc)
 * [Lowe-Power lab protocols](https://github.com/lowepowerlab/protocols)
 
+## The Philosophy in PhD
+* [iBiology's Planning Your Scientific Journey.](https://courses.ibiology.org/courses/course-v1:iBiology+iBio1+2018/about).  A self-paced online class (6 weeks; ~2-3 hrs / week) that will allow you to develop:
+    1. Criteria to evaluate a research question.
+    2. A plan for how to approach your scientific question and other research goals.
+    3. An agenda for a meeting with your mentor to get feedback on your plan.
+
 ## Data Visualization & Presentation Resources
 * An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
 * Scientific illustration resource: [Margaret Senior Plant Disease Bulletins](https://livinghistories.newcastle.edu.au/nodes/index/page:4/q:SAGN/source:2) 
