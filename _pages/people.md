@@ -25,8 +25,8 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
 **Office:** 281 Hutchison Hall (within 275) <br>
-
 **BS Biochemistry** University of Texas-Austin
+**Plant Pathology Graduate Group**
 
 ## #wUndergrads
 
@@ -35,6 +35,14 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Email:** aceulano@ucdavis.edu <br>
 **Major:** Global Disease Biology Major <br>
 
+![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
+**Elva Xian** <br> 
+**Email:** exian@ucdavis.edu <br>
+**Major:** Global Disease Biology Major <br>
+
+## Alumni
+
+Lab alumni are represented on the [Alumni page](/_pages/alumni.md).
 
 
 
