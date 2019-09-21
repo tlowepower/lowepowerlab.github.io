@@ -21,22 +21,24 @@ Assistant Professor <br>
 For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 ## Graduate Student Researchers
-![Stratton Georgoulis](){: .align-left width="200px"}
+![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
 **Office:** 281 Hutchison Hall (within 275) <br>
 
 **BS Biochemistry** University of Texas-Austin
 
-## #wUndergrad Researchers
+## #wUndergrads
 
-![Katie Shalvarjian](/assets/people/portrait_shalvarjian.jpg){: .align-left width="200px"}
-**Katie Shalvarjian** <br> 
-**Twitter**: [@kshalv](https://twitter.com/kshalv) <br>
-<br><br>
-**BS Microbial Biology** UC Berkeley
+![Amanda Eulano](/assets/people/portrait_eulano.jpg){: .align-left width="200px"}
+**Amanda Eulano** <br> 
+**Email:** aceulano@ucdavis.edu <br>
+**Major:** Global Disease Biology Major <br>
 
-Katie is a Summer Undergraduate Research Fellow working with Dr. Lowe-Power in the Lindow lab at Berkeley to investigate <i>Ralstonia solacearum</i>'s growth requirements in tomato xylem sap. 
 
-For fun: Rock climbing, baking bread, hiking
- 
+
+
+
+
+
+
