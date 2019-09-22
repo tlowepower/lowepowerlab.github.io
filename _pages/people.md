@@ -48,7 +48,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 <br><br><br><br><br>
 ## Alumni
 
-Lab alumni are represented on the [Alumni page](/_pages/alumni).
+Lab alumni are represented on the [Alumni page](/alumni).
 
 
 
