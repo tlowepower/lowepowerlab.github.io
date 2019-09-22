@@ -10,7 +10,7 @@ permalink: /people/
 Assistant Professor <br>
 **Twitter**: [@tlowepower](https://twitter.com/TLowePower) <br>
 **Email:** tlowepower@UCDavis.edu <br>
-**Office:** 282 Hutchison Hall <br>
+**Office:** Temporarily **114 Robbins** until lab renovations finish; <br>Final location: 282 Hutchison Hall <br> 
 **Office Phone:** ​530-754-1212 <br>
 [**Google Scholar**](https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en) <br><br>
 

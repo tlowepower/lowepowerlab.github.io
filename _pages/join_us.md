@@ -3,7 +3,7 @@ title: Join the Lab!
 permalink: join_us
 ---
 
-We are happy to discuss opportunities with people motivated to understand how bacteria interact with their plant hosts. Expectations for members of the lab are described in the [Lowe-Power lab mentor/mentee contract](assets\resources\mentoring_contract_lowepowerlab.docx). The lab's [onboarding info / handbook](https://github.com/lowepowerlab/protocols/blob/master/onboarding.md) might also be of interest. 
+We are happy to discuss opportunities with people motivated to understand how bacteria interact with their plant hosts. Expectations for members of the lab are described in the [Lowe-Power lab handbook](https://github.com/lowepowerlab/lab_handbook). The lab's [onboarding info](https://github.com/lowepowerlab/lab_handbook/blob/master/onboarding.md) might also be of interest. 
 
 ## Undergraduates
 
