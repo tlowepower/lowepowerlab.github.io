@@ -33,12 +33,16 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 ![Amanda Eulano](/assets/people/portrait_eulano.jpg){: .align-left width="200px"}
 **Amanda Eulano** <br> 
 **Email:** aceulano@ucdavis.edu <br>
-**Major:** Global Disease Biology Major <br>
+Dominican College of California: **Public Health** <br>
+Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning**
+UC Davis Major: **Global Disease Biology** <br>
+
+For fun: shopping, hanging out with my dog 🐶, and traveling
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
 **Email:** exian@ucdavis.edu <br>
-**Major:** Global Disease Biology Major <br>
+UC Davis Major: **Global Disease Biology**  <br>
 
 
 <br><br><br><br><br>
