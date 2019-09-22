@@ -37,7 +37,7 @@ Dominican College of California: **Public Health** <br>
 Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning**
 UC Davis Major: **Global Disease Biology** <br>
 
-For fun: shopping, hanging out with my dog 🐶, and traveling
+For fun: shopping, hanging out with my dog 🐶, and traveling <br><br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
@@ -48,7 +48,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 <br><br><br><br><br>
 ## Alumni
 
-Lab alumni are represented on the [Alumni page](/_pages/alumni.md).
+Lab alumni are represented on the [Alumni page](/_pages/alumni).
 
 
 
