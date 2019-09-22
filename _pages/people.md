@@ -34,10 +34,10 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Amanda Eulano** <br> 
 **Email:** aceulano@ucdavis.edu <br>
 Dominican College of California: **Public Health** <br>
-Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning**
+Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning** <br>
 UC Davis Major: **Global Disease Biology** <br>
 
-For fun: shopping, hanging out with my dog 🐶, and traveling <br><br><br>
+For fun: shopping, hanging out with my dog 🐶, and traveling <br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
