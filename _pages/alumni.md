@@ -1,4 +1,4 @@
-# Lowe-Power lab alumni
+
 
 ## #wUndergrads
 
