@@ -1,4 +1,7 @@
-
+---
+title: Lowe-Power Lab Alumni
+permalink: /alumni/
+---
 
 ## #wUndergrads
 
