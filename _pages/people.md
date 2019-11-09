@@ -12,7 +12,7 @@ Assistant Professor <br>
 **Email:** tlowepower@UCDavis.edu <br>
 **Office:** Temporarily **114 Robbins** until lab renovations finish; <br>Final location: 282 Hutchison Hall <br> 
 **Office Phone:** ​530-754-1212 <br>
-[**Google Scholar**](https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en) <br><br>
+[**Google Scholar**](https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en) <br><br><br>
 
 **BS Applied Biology** Georgia Institute of Technology
 <br> **PhD Microbiology Doctoral Training Program**, University of Wisconsin–Madison (in Dept of Plant Pathology)
@@ -24,7 +24,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
-**Office:** 281 Hutchison Hall (within 275) <br>
+**Office:** 113 Robbins Hall<br>
 **BS Biochemistry** University of Texas-Austin
 **Plant Pathology Graduate Group**
 
