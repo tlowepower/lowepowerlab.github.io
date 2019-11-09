@@ -27,7 +27,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Office:** 113 Robbins Hall<br>
 **BS Biochemistry** University of Texas-Austin
 **Plant Pathology Graduate Group**
-
+<br><br><br><br>
 ## #wUndergrads
 
 ![Amanda Eulano](/assets/people/portrait_eulano.jpg){: .align-left width="200px"}
