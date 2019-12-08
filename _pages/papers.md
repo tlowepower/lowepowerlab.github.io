@@ -3,6 +3,8 @@ title: Publications
 permalink: papers
 ---
 
+A full list of publications are available on [Google Scholar](https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en)
+
 **2018**
 {: .text-center}
 
@@ -64,9 +66,6 @@ Li B, **Tiffany Lowe-Power**, Kurihara S, Gonzales S, Naidoo J, MacMillan JB, Al
 
 <br><br><br><br><br>
 
-Interactions between bacteria and aspen defense chemicals at the phyllosphere-herbivore interface.
-Charlie Mason, **Tiffany Lowe-Power**, Kennedy Rubert-Nason, Rick Lindroth, Ken Raffa. *Journal of Chemical Ecology* [Download PDF](/assets/papers/pub_aspen_beetles_phenolics.pdf){: .btn .btn--info .btn--small}
-
 ![Chlamydospore formed in response to ralsolamycin](/assets/papers/pub_ralsolamycin_chlamydospores.png){: .align-left width="250px"}
 
 *Ralstonia solanacearum* lipopeptide induces chlamydospore development in fungi and facilitates bacterial entry into fungal tissues.
@@ -108,7 +107,3 @@ Ailloud F, **Tiffany Lowe**, Cellier G, Roche D, Allen C, Prior P. *BMC Genomics
 
 <br><br>
 
-![Vibrio genomics blast identity](/assets/papers/pub_vibriopara_genomics.jpg){: .align-left width="250px"}
-
-Insights into the environmental reservoir and emergence of pathogenic *Vibrio parahaemolyticus* using comparative genomics.
-Hazen TH, Lafon PC, Garrett NM, **Tiffany Lowe**, Silberger DJ, Rowe LA, Frace M, Parsons MB, Bopp CA, Rasko DA, Sobecky, PA. *Frontiers in Microbiology* [Download PDF](/assets/papers/pub_vibriopara_genomics.pdf){: .btn .btn--info .btn--small}

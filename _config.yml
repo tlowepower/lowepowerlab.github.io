@@ -20,7 +20,7 @@ title                    : "Lowe-Power Lab"
 title_separator          : "-"
 name                     : "Lowe-Power Lab"
 description              : "Academic webpage"
-url                      : https://tiffany.lowepower.com
+url                      : http://lowepowerlab.ucdavis.edu/
 repository               : tlowepower/tlowepower.github.io
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

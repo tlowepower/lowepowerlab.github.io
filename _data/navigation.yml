@@ -2,7 +2,7 @@
 main:
   - title: "People"
     url: /people
-  - title: "Research"
+  - title: "Publications"
     url: /papers
   - title: "Join the Lab!"
     url: /join_us
