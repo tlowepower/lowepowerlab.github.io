@@ -27,7 +27,6 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Office:** 113 Robbins Hall<br>
 **PhD Plant Pathology** UC-Riverside <br>
 **BS Biochemistry & Molecular Biology** UC-Davis <br>
-**Plant Pathology Graduate Group**
 
 
 ## Graduate Student Researchers
@@ -36,7 +35,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Email:** georgoulis@ucdavis.edu <br>
 **Office:** 113 Robbins Hall<br>
 **BS Biochemistry** University of Texas-Austin <br>
-**Plant Pathology Graduate Group**
+**Plant Pathology Graduate Group** UC Davis
 
 <br><br><br><br><br><br>
 ## #wUndergrads
