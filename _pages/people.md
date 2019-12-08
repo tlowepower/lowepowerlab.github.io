@@ -20,6 +20,16 @@ Assistant Professor <br>
 
 For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
+## Postdocs
+![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
+**Brian Ingel** <br> 
+**Email:** <br>
+**Office:** 113 Robbins Hall<br>
+**PhD Plant Pathology** UC-Riverside <br>
+**BS Biochemistry & Molecular Biology** UC-Davis <br>
+**Plant Pathology Graduate Group**
+
+
 ## Graduate Student Researchers
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
@@ -31,18 +41,23 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 <br><br><br><br><br><br>
 ## #wUndergrads
 
+![Kyle Chipman](/assets/people/portrait_chipman.jpg){: .align-left width="200px"}
+**Kyle Chipman** <br> 
+UC Davis Major: **Global Disease Biology** <br>
+
+
+<br><br>
+
 ![Amanda Eulano](/assets/people/portrait_eulano.jpg){: .align-left width="200px"}
 **Amanda Eulano** <br> 
-**Email:** aceulano@ucdavis.edu <br>
 Dominican College of California: **Public Health** <br>
 Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning** <br>
 UC Davis Major: **Global Disease Biology** <br>
 
-For fun: shopping, hanging out with my dog 🐶, and traveling <br><br>
+For fun: shopping, hanging out with my dog 🐶, and traveling <br><br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
-**Email:** exian@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**  <br>
 
 
