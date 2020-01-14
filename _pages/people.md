@@ -39,7 +39,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 <br><br><br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
 
-<br><br><br>
+<br>
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
