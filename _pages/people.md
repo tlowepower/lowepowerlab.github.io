@@ -34,12 +34,12 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Jonathan Beutler** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
 **Office:** 125 Robbins Hall<br>
-**B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities
+**B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities <br>
 **International Agricultural Development Graduate Group**, UC Davis
-
+<br><br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
 
-<br><br><br><br>
+<br><br><br>
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
@@ -49,7 +49,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 ## #wUndergrads
 
 ![Kyle Chipman](/assets/people/portrait_chipman.jpg){: .align-left width="200px"}
