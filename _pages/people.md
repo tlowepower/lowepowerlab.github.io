@@ -28,7 +28,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **PhD Plant Pathology** UC-Riverside <br>
 **BS Biochemistry & Molecular Biology** UC-Davis <br>
 
-
+<br><br><br><br>
 ## Graduate Student Researchers
 ![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
 **Jonathan Beutler** <br> 
@@ -36,7 +36,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Office:** 125 Robbins Hall<br>
 **B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities <br>
 **International Agricultural Development Graduate Group**, UC Davis
-<br><br>
+<br><br><br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
 
 <br><br><br>
@@ -46,8 +46,6 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Office:** 113 Robbins Hall<br>
 **BS Biochemistry** University of Texas-Austin <br>
 **Plant Pathology Graduate Group** UC Davis
-
-
 
 <br><br><br><br>
 ## #wUndergrads
