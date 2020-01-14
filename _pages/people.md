@@ -30,12 +30,24 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 
 ## Graduate Student Researchers
+![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
+**Jonathan Beutler** <br> 
+**Email:** georgoulis@ucdavis.edu <br>
+**Office:** 125 Robbins Hall<br>
+**B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities
+**International Agricultural Development Graduate Group**, UC Davis
+
+**For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
+
+<br><br><br><br>
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
 **Office:** 113 Robbins Hall<br>
 **BS Biochemistry** University of Texas-Austin <br>
 **Plant Pathology Graduate Group** UC Davis
+
+
 
 <br><br><br><br><br><br>
 ## #wUndergrads
@@ -46,14 +58,6 @@ UC Davis Major: **Global Disease Biology** <br>
 
 
 <br><br>
-
-![Amanda Eulano](/assets/people/portrait_eulano.jpg){: .align-left width="200px"}
-**Amanda Eulano** <br> 
-Dominican College of California: **Public Health** <br>
-Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning** <br>
-UC Davis Major: **Global Disease Biology** <br>
-
-For fun: shopping, hanging out with my dog 🐶, and traveling <br><br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
