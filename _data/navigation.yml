@@ -2,9 +2,11 @@
 main:
   - title: "People"
     url: /people
+  - title: "News"
+    url: /news
   - title: "Publications"
     url: /papers
-  - title: "Join the Lab!"
+  - title: "Join the Lab"
     url: /join_us
   - title: "Resources"
     url: /resources     

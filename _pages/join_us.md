@@ -1,5 +1,5 @@
 ---
-title: Join the Lab!
+title: Join the Lab
 permalink: join_us
 ---
 
@@ -9,7 +9,7 @@ We are happy to discuss opportunities with people motivated to understand how ba
 
 Undergraduate researchers are an important part of the Lowe-Power lab group. If you are an undergraduate student interested in our research and would like to conduct independent research or to contribute to our group's research mission through work-study, please [read this advice](http://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) on writing professional emails and contact Dr. Lowe-Power. In the email, please include your year of study, your background including relevant coursework, and what interests you about our research. 
 
-Current and prospective students are encouraged to apply for stipend funding through [UC Davis Undergraduate Research Programs](https://urc.ucdavis.edu/programs) or professional societies, such as the [American Phytopathological Society](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship) and the [American Society of Microbiology](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship). Additional funding opportunities: [Barudolphfoundation](http://barudolphfoundation.org/stem-scholarship/).
+Current and prospective students are encouraged to apply for stipend funding through [UC Davis Undergraduate Research Programs](https://urc.ucdavis.edu/programs) or professional societies, such as the [American Phytopathological Society](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship) and the [American Society of Microbiology](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship). Additional funding opportunities: [Barudolph foundation](http://barudolphfoundation.org/stem-scholarship/).
 
 ## Graduates
 
