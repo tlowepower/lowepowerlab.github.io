@@ -23,7 +23,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 ## Postdocs
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
-**Email:** <br> bmingel@ucdavis.edu
+**Email:** bmingel@ucdavis.edu <br>
 **Office:** 113 Robbins Hall<br>
 **PhD Plant Pathology** UC-Riverside <br>
 **BS Biochemistry & Molecular Biology** UC-Davis <br>
@@ -55,7 +55,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 UC Davis Major: **Global Disease Biology** <br> 
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
