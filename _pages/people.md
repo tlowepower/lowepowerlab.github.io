@@ -23,7 +23,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 ## Postdocs
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
-**Email:** <br>
+**Email:** <br> bmingel@ucdavis.edu
 **Office:** 113 Robbins Hall<br>
 **PhD Plant Pathology** UC-Riverside <br>
 **BS Biochemistry & Molecular Biology** UC-Davis <br>
@@ -32,8 +32,8 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 ## Graduate Student Researchers
 ![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
 **Jonathan Beutler** <br> 
-**Email:** georgoulis@ucdavis.edu <br>
-**Office:** 125 Robbins Hall<br>
+**Email:** jdbeutler@ucdavis.edu@ucdavis.edu <br>
+**Office:** 113 Robbins Hall<br>
 **B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities <br>
 **International Agricultural Development Graduate Group**, UC Davis
 <br><br><br>
@@ -52,7 +52,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 ![Kyle Chipman](/assets/people/portrait_chipman.jpg){: .align-left width="200px"}
 **Kyle Chipman** <br> 
-UC Davis Major: **Global Disease Biology** <br>
+UC Davis Major: **Global Disease Biology** <br> 
 
 
 <br><br>
