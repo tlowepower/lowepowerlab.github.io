@@ -45,9 +45,10 @@ permalink: /resources/
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
 * Abstracts: [Annotated example of how to write an abstract (aka Summary) ](https://twitter.com/tpoi/status/1100105516456570880)
+* [Advice for a Strong NSF proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
 
 ### Peer-Review
-* [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.docx) by Caitilyn Allen
+* [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
 
 ## Conferences / Talks / Posters
 
