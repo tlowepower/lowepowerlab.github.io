@@ -30,13 +30,13 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 <br><br><br><br>
 
-![Becca Schomer](/assets/people/portrait_schomerjpg){: .align-left width="200px"}
+![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
 **Becca Schomer** <br> 
 **Email:** raschomer@ucdavis.edu  <br>
 **PhD Microbiology** UW-Madison <br>
 **B. Bacteriology** UW-Madison <br>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 ## Graduate Student Researchers
 ![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
 **Jonathan Beutler** <br> 
