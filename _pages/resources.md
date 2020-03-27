@@ -40,10 +40,14 @@ permalink: /resources/
 # Science Communication (#SciComm) Resources
 
 ## Scientific Writing
+* [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
 * Getting started: [An Ode to the Shitty First Draft](https://writingcooperative.com/an-ode-to-all-of-my-shitty-first-drafts-8312e86130c8?gi=dec43175b8e7) by Angely Mercado. 
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
 * Abstracts: [Annotated example of how to write an abstract (aka Summary) ](https://twitter.com/tpoi/status/1100105516456570880)
+
+### Peer-Review
+* [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.docx) by Caitilyn Allen
 
 ## Conferences / Talks / Posters
 
