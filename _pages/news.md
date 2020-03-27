@@ -5,6 +5,12 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## Spring 2020
+
+*March 27, 2020*
+
+We've set a new lab motto for Spring 2020: **Constraints provide opportunities for Creativity!** Due to the Covid19 pandemic, our lab culled our tomato plants, archived our bacteria in the -80, donated our PPE stocks to UC Davis Med, and transitioned to remote work on March 13. Our first priority is health: infectious, physical, and mental. Our second priority is defining & carrying out training and research goals that we can complete remotely. 
+
 ## Winter 2020
 
 Our lab is full of growth this quarter!  We welcome M.S. student **Jonathan Beutler**, postdoc **Brian Ingel**, and a dynamic duo of undergraduate researchers **Kyle Chipman** and **Elva Xian**. 
