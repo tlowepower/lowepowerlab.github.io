@@ -3,8 +3,6 @@ title: Resources
 permalink: /resources/
 ---
 
-<br><br>
-
 # Science resources
 
 ## Experimental (Methods, training resources, etc)
@@ -52,7 +50,10 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
 * Abstracts: [Annotated example of how to write an abstract (aka Summary) ](https://twitter.com/tpoi/status/1100105516456570880)
+
+### Grant Writing
 * [Advice for a Strong NSF proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
+* [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
 
 ### Peer-Review
 * [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
