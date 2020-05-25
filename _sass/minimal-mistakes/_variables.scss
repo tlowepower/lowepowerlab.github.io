@@ -14,7 +14,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: "Avenir", BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -104,7 +104,6 @@ $xing-color: #006567 !default;
 $link-color: #004B87 !default;
  
 /* comment 
-I chanaged this:
 $link-color: $info-color !default;
 endcomment */
 $link-color-hover: mix(#000, $link-color, 25%) !default;

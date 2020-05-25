@@ -7,7 +7,17 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 ## Spring 2020
 
-*March 27, 2020*
+*May 2020*
+
+Dr. Becca Schomer received a JGI Functional Genomics grant with Co-PI Parales and Co-PI Lowe-Power. Way to go, Becca!
+
+*April 2020*
+
+Wonderful news! Dr. Becca Schomer has received a USDA NIFA postdoctoral fellowship to study specificity of Ralstonia membrane receptors.  Becca is a postdoctoral fellow co-advised by Dr. Becky Parales and Dr. Tiffany Lowe-Power. 
+
+Tiffany prepared and delivered an four-part ad hoc workshop on **Scientific Communication: Writing Grants and Papers** via Zoom.  Check out the the video recordings on the [Resources page](/resources.md). 
+
+*March 2020*
 
 We've set a new lab motto for Spring 2020: **Constraints provide opportunities for Creativity!** Due to the Covid19 pandemic, our lab culled our tomato plants, archived our bacteria in the -80, donated our PPE stocks to UC Davis Med, and transitioned to remote work on March 13. Our first priority is health: infectious, physical, and mental. Our second priority is defining & carrying out training and research goals that we can complete remotely. 
 
@@ -23,7 +33,9 @@ Stratton Georgoulis is mentoring the #wUndergrads Kyle and Elva through their fi
 
 ## Fall 2019
 
-Welcome Plant Pathology PhD student, **Stratton Georgoulis**, the first trainee of the lab! 
+Welcome Plant Pathology PhD student, **Stratton Georgoulis**, the first trainee of the lab!
+
+Postdoc Becca Schomer has also joined the team.  Becca's main advisor is Becky Parales in the Microbiology and Genetics department. 
 
 ## Summer 2019
 

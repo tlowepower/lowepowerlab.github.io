@@ -10,11 +10,11 @@ permalink: /people/
 Assistant Professor <br>
 **Twitter**: [@tlowepower](https://twitter.com/TLowePower) <br>
 **Email:** tlowepower@UCDavis.edu <br>
-**Office:** Temporarily **114 Robbins** until lab renovations finish; <br>Final location: 282 Hutchison Hall <br> 
+**Office:** Temporarily--at home with the cats. <br>Final location: 282 Hutchison Hall <br> 
 **Office Phone:** ​530-754-1212 <br>
 [**Google Scholar**](https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en) <br><br><br>
 
-**BS Applied Biology** Georgia Institute of Technology
+**B.S. Applied Biology** Georgia Institute of Technology
 <br> **PhD Microbiology Doctoral Training Program**, University of Wisconsin–Madison (in Dept of Plant Pathology)
 <br> **Postdoc Plant and Microbial Biology**, University of California, Berkeley 
 
@@ -26,15 +26,19 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **Email:** bmingel@ucdavis.edu <br>
 **Office:** 113 Robbins Hall<br>
 **PhD Plant Pathology** UC-Riverside <br>
-**BS Biochemistry & Molecular Biology** UC-Davis <br>
+**B.S. Biochemistry & Molecular Biology** UC-Davis <br>
 
 <br><br><br><br>
 
 ![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
 **Becca Schomer** <br> 
+Co-Mentored by Dr. Becky Parales 
 **Email:** raschomer@ucdavis.edu  <br>
+**Twitter**: [@becA_recA](https://twitter.com/becA_recA) <br>
 **PhD Microbiology** UW-Madison <br>
-**B. Bacteriology** UW-Madison <br>
+**B.S. Bacteriology** UW-Madison <br>
+[**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br><br><br>
+
 
 <br><br><br><br><br><br>
 ## Graduate Student Researchers
@@ -70,7 +74,7 @@ UC Davis Major: **Global Disease Biology** <br>
 UC Davis Major: **Global Disease Biology**  <br>
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 ## Alumni
 
 Lab alumni are represented on the [Alumni page](/alumni).
