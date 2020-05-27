@@ -38,8 +38,8 @@ permalink: /resources/
 
 ## Tiffany's Advice for Grant and Paper writing
 Curated from diverse sources that are hopefully cited properly.
-* Lecture 1: [**The Human Context of Grantsmanship**](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000
-* Lecture 2: [**High Impact Writing (Word Choice)**](https://zoom.us/rec/play/6JF_I7yqrm43SNHEtgSDC6N_W46_J62s1HNN__VczUfnVXRWZgCuNOFBY-Z8chB5Ko9Gcm1V9kkw8IYR?autoplay=true&startTime=1586545007000
+* Lecture 1: [**The Human Context of Grantsmanship**](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000)
+* Lecture 2: [**High Impact Writing (Word Choice)**](https://zoom.us/rec/play/6JF_I7yqrm43SNHEtgSDC6N_W46_J62s1HNN__VczUfnVXRWZgCuNOFBY-Z8chB5Ko9Gcm1V9kkw8IYR?autoplay=true&startTime=1586545007000)
 * Lecture 3: [**High Impact Writing: Building Sentences**](https://zoom.us/rec/play/vZ0rduigqjk3GtbHsQSDAP5xW468LPishHIY_PsLzBy2AiEGZAWmYLpGN7O-xIbo2dMV_Jg8Xqfi36n-)
 * Lecture 4: [**Writing Strategies**](
 https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7MnG6owzJlY?startTime=1587754603000)
