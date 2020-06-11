@@ -3,6 +3,25 @@ title: Resources
 permalink: /resources/
 ---
 
+# Inclusion, Diversity, and Equity resources
+
+## Imposter Syndrome
+
+*[Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
+
+## Avoiding Implicit Bias in reading & writing Letters of Recommendation 
+* [Avoiding racial bias](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
+* [Avoiding gender bias](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)
+* [Materials to host 1 hr workshop on implicit bias in letters of recommendation](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
+
+## Resources for Faculty
+* [UC Davis STEM Faculty Resource Guide  - For Faculty Starting to Learn about Equity, Inclusion, Justice and Anti Racism](https://tinyurl.com/ucd-equity)
+* Rubrics for departmental self-assessments: 
+  * From American Astronomical Society [(Rubric begins on page 63 of the report)](https://baas.aas.org/pub/2019i0101/release/1)
+  * From American Institute of Physics [(Appendix 8 in the Task Force Report) ](https://www.aip.org/diversity-initiatives/team-up-task-force)
+* Funding opportunities for graduate fellowships to support underrepresented trainees
+  * [USDA National Needs Fellowships](https://nifa.usda.gov/program/national-needs-graduate-and-postgraduate-fellowship-grants-program-funding-opportunity-nnf)
+
 # Science resources
 
 ## Experimental (Methods, training resources, etc)
@@ -54,6 +73,10 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 ### Grant Writing
 * [Advice for a Strong NSF proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
 * [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
+
+### Writing Letters of recommendation
+* [Avoiding racial bias](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
+* [Avoiding gender bias](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)
 
 ### Peer-Review
 * [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
