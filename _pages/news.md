@@ -7,17 +7,21 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 ## Spring 2020
 
-*May 2020*
+**June 2020**
+
+Kyle Chipman graduated from UC Davis with a B.S. in Global Disease Biology. Congrats, Kyle!  Kyle's GDB thesis included a literature meta-analysis of *Ralstonia* diversity, distribution, and host range. Part of his work is [hosted on the lab GitHub](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md).  
+ 
+**May 2020**
 
 Dr. Becca Schomer received a JGI Functional Genomics grant with Co-PI Parales and Co-PI Lowe-Power. Way to go, Becca!
 
-*April 2020*
+**April 2020**
 
 Wonderful news! Dr. Becca Schomer has received a USDA NIFA postdoctoral fellowship to study specificity of Ralstonia membrane receptors.  Becca is a postdoctoral fellow co-advised by Dr. Becky Parales and Dr. Tiffany Lowe-Power. 
 
 Tiffany prepared and delivered an four-part ad hoc workshop on **Scientific Communication: Writing Grants and Papers** via Zoom.  Check out the the video recordings on the [Resources page](/resources.md). 
 
-*March 2020*
+**March 2020**
 
 We've set a new lab motto for Spring 2020: **Constraints provide opportunities for Creativity!** Due to the Covid19 pandemic, our lab culled our tomato plants, archived our bacteria in the -80, donated our PPE stocks to UC Davis Med, and transitioned to remote work on March 13. Our first priority is health: infectious, physical, and mental. Our second priority is defining & carrying out training and research goals that we can complete remotely. 
 
