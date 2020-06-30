@@ -10,6 +10,8 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 **June 2020**
 
 Kyle Chipman graduated from UC Davis with a B.S. in Global Disease Biology. Congrats, Kyle!  Kyle's GDB thesis included a literature meta-analysis of *Ralstonia* diversity, distribution, and host range. Part of his work is [hosted on the lab GitHub](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md).  
+
+The lab welcomes Dayna Denver as a remote undergrad researcher through the [NSURP](NSURP.org) program. Stratton is supervising Dayna and Elva on twin projects to investigate the distribution of *Ralstonia* genes across genomes. 
  
 **May 2020**
 
