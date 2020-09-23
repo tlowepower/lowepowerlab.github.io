@@ -61,17 +61,17 @@ Co-Mentored by Dr. Becky Parales
 
 <br><br><br><br>
 ## #wUndergrads
+![](/assets/people/tbd.jpg){: .align-left width="200px"}
+**Jason Avalos** <br> 
+UC Davis Major: **Global Disease Biology**  <br>
 
-![Dayna Denver](/assets/people/portrait_denver.jpg){: .align-left width="200px"}
+<br><br>
 
-**Dayna Alyse Denver**
+![](/assets/people/tbd.jpg){: .align-left width="200px"}
+**Maria Charco Munoz** <br> 
+UC Davis Major: **Global Disease Biology**  <br>
 
-**A.A. Natural Science** Mt. San Antonio College
-Major: **B.Sc. Microbiology** at Cal Poly Pomona
 
-Dayna is a research student from Cal Poly Pomona joining the lab through the National Summer Undergraduate Research Project (NSURP).
-
-**For fun:** photography, kayaking, hiking, providing unsolicited science fun facts, getting overly excited about microbes
 
 <br><br><br><br><br><br><br><br>
 
