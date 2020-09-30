@@ -67,7 +67,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 
 <br><br>
 
-![](/assets/people/tbd.jpg){: .align-left width="200px"}
+![](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
 **Maria Charco Munoz** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
