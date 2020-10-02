@@ -5,9 +5,15 @@ permalink: /resources/
 
 # Inclusion, Diversity, and Equity resources
 
-## Imposter Syndrome
+[Dr. Beronda Montgomery's Keynote Talk](https://www.youtube.com/watch?v=H3QRI7hM9nY&ab_channel=BlackInMicrobiology) for #BlackInMicrobiology week 2020. An excellent presentation and Q&A to watch to understand the importance of an inclusive climate and mentoring and for wisdom about developing your academic path.  
 
-*[Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
+## Imposter Syndrome and Mental Health Resources
+
+* [Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
+* [Dr. Lowe-Power's open letter about living with Anxiety and Depression as a scientist](https://twitter.com/TLowePower/status/1309222113299972097?s=20)
+* UC Davis has Therapists who serve as bridges to help navigate acute and chronic mental health:
+ * [Academic and Staff Assistance Program](https://www.hr.ucdavis.edu/departments/asap) for graduate students, postdocs, faculty, and other UC Davis employees.
+ * [Counseling Services through Graduate Studies](https://grad.ucdavis.edu/resources/help-and-support/mental-health-and-counseling) -- a second resource for graduate students.
 
 ## Avoiding Implicit Bias in reading & writing Letters of Recommendation 
 * [Avoiding racial bias](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
@@ -55,7 +61,8 @@ permalink: /resources/
 
 # Science Communication (#SciComm) Resources
 
-## Tiffany's Advice for Grant and Paper writing
+## Tiffany's Advice for Grant and Paper writing (Currently down, but will be uploaded at a new location after Fall 2020)
+
 Curated from diverse sources that are hopefully cited properly.
 * Lecture 1: [**The Human Context of Grantsmanship**](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000)
 * Lecture 2: [**High Impact Writing (Word Choice)**](https://zoom.us/rec/play/6JF_I7yqrm43SNHEtgSDC6N_W46_J62s1HNN__VczUfnVXRWZgCuNOFBY-Z8chB5Ko9Gcm1V9kkw8IYR?autoplay=true&startTime=1586545007000)
