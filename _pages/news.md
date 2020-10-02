@@ -5,6 +5,16 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## Fall 2020
+
+**October 2020**
+
+The Lowe-Power lab welcomes Jason Avalos and Maria Charco Munoz, two new Global Disease Biology undergraduates who will contribute to the [meta-analysis of *Ralstonia* diversity, distribution, and host range](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md).  
+
+Last month, the Lowe-Power lab participated in the Plant Pathology Department Retreat. Stratton gave an excellent presentation that covered his and his labmates' projects in the lab. Dr. Lowe-Power opened a department-wide discussion: "What can we do as individuals, a department, and a field to promote diversity, equity, and inclusion?"
+
+Over the Summer, the lab submitted our first manuscript for peer review. The project was led by two excellent junior scientists. Katie Shalvarjian initiated the project as an undergrad, and Stratton G analyzed the TnSeq data and co-wrote the manuscript. [Link to the BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2020.08.31.276741v1). [Link to a Twitter Summary of the paper](https://twitter.com/TLowePower/status/1301164432492359681?s=20)
+
 ## Spring 2020
 
 **June 2020**
