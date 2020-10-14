@@ -65,7 +65,7 @@ Co-Mentored by Dr. Becky Parales
 **Jason Avalos** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
-<br><br>
+<br><br><br><br><br><br>
 
 ![](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
 **Maria Charco Munoz** <br> 
