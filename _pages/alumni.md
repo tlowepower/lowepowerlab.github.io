@@ -32,6 +32,7 @@ UC Davis Major: **Global Disease Biology** <br>
 
 For fun: shopping, hanging out with my dog 🐶, and traveling 
 
+**What she did after leaving the lab**: Amanda interned at Genentech. 
 <br><br><br>
 
 ![Katie Shalvarjian](/assets/people/portrait_shalvarjian.jpg){: .align-left width="200px"}
@@ -44,7 +45,7 @@ Katie was a Summer Undergraduate Research Fellow working with Dr. Lowe-Power in 
 
 For fun: Rock climbing, baking bread, hiking
  
-**What she did after graduating**: In Fall 2019, Katie joined Dr. Dipti Nayak's lab at UC Berkeley where she is a research technician unraveling the mysteries of Archaea. 
+**What she did after graduating**: In Fall 2019, Katie joined Dr. Dipti Nayak's lab at UC Berkeley where she is a research technician unraveling the mysteries of Archaea. In Fall 2020, Katie started her PhD in the Plant and Microbial Biology department at UC Berkeley. 
 
 <br><br><br><br><br><br>
 
