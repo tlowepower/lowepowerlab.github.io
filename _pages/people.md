@@ -61,7 +61,7 @@ Co-Mentored by Dr. Becky Parales
 
 <br><br><br><br>
 ## #wUndergrads
-![](/assets/people/tbd.jpg){: .align-left width="200px"}
+![](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
