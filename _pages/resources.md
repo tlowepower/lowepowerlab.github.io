@@ -14,6 +14,9 @@ permalink: /resources/
 * UC Davis has Therapists who serve as bridges to help navigate acute and chronic mental health:
  * [Academic and Staff Assistance Program](https://www.hr.ucdavis.edu/departments/asap) for graduate students, postdocs, faculty, and other UC Davis employees.
  * [Counseling Services through Graduate Studies](https://grad.ucdavis.edu/resources/help-and-support/mental-health-and-counseling) -- a second resource for graduate students.
+ 
+## Building inclusion
+* [How LGBT+ scientists would like to be included and welcomed in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3). Highly recommended reading for examples of how to welcome and build inclusion for marginalized scientists. 
 
 ## Avoiding Implicit Bias in reading & writing Letters of Recommendation 
 * [Avoiding racial bias](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
