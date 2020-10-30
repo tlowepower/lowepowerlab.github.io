@@ -9,7 +9,7 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 **October 2020**
 
-Dr. Tiffany Lowe-Power was invited to present the labs' research at the Univerity of Georgia at the Plant Pathology seminar series and at UC Davis in the Microbiology Seminar series. Dr. Lowe-Power presented "Why do plants wilt? What X-ray computed microtomography can tell us about a model bacterial pathogen”. This seminar should be broadly accessible to the general public as well as plant pathologists, plant biologists, and microbiologists. 
+Dr. Tiffany Lowe-Power was invited to present the labs' research at the University of Georgia's Plant Pathology seminar series and at UC Davis's Microbiology Seminar series. Dr. Lowe-Power presented *"Why do plants wilt? What X-ray computed microtomography can tell us about a model bacterial pathogen”*. This seminar should be broadly accessible to the general public as well as plant pathologists, plant biologists, and microbiologists. 
 
 The alternate title of the talk is "Shooting plants with X-rays *pew pew*". 
 
