@@ -69,8 +69,10 @@ Curated from diverse sources that are hopefully cited properly.
 * Lecture 4: [**Writing Strategies**](
 https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7MnG6owzJlY?startTime=1587754603000)
 
-## Data Visualization
+## Stats and Data Visualization
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodesk.com/research/publications/same-stats-different-graphs)
+* ["If your P value looks too good to be true, it probably is: Communicating reproducibility and variability in cell biology"](https://arxiv.org/abs/1911.03509). A humorous guide to common pitfalls in statistical analysis. The PDF is in the upper right corner. This guide was also published in a journal, but the editor removed the jokes. 
+* **Graphpad Prism's guide to statistics**. Google for this and find the recent version.  This guide is written for research biologists and uses a lot of common examples that we are familiar with.  It will help you verify that your data fit the assumptions for the statistcal tests that you want to perform. 
 
 ## Scientific Writing
 * [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
