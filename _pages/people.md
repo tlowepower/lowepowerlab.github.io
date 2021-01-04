@@ -73,7 +73,15 @@ UC Davis Major: **Global Disease Biology**  <br>
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
+
+
+
+![](/assets/people/portrait_lankford.jpg){: .align-left width="200px"}
+**Grace Lankford** <br> 
+UC Davis Major: **Global Disease Biology**  <br>
+
+<br><br><br><br><br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
