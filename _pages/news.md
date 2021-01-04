@@ -9,6 +9,16 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 **October 2020**
 
+Dr. Tiffany Lowe-Power was invited to present the labs' research at the University of Georgia's Plant Pathology seminar series and at UC Davis's Microbiology Seminar series. Dr. Lowe-Power presented *"Why do plants wilt? What X-ray computed microtomography can tell us about a model bacterial pathogen”*. This seminar should be broadly accessible to the general public as well as plant pathologists, plant biologists, and microbiologists. 
+
+The alternate title of the talk is "Shooting plants with X-rays *pew pew*". 
+
+A recording from the UC Davis seminar is available on Youtube: https://youtu.be/TpFLAiaZy94
+
+{% include video id="TpFLAiaZy94" provider="youtube" %}
+
+**Beginning of Fall Quarter!**
+
 The Lowe-Power lab welcomes Jason Avalos and Maria Charco Munoz, two new Global Disease Biology undergraduates who will contribute to the [meta-analysis of *Ralstonia* diversity, distribution, and host range](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md).  
 
 Last month, the Lowe-Power lab participated in the Plant Pathology Department Retreat. Stratton gave an excellent presentation that covered his and his labmates' projects in the lab. Dr. Lowe-Power opened a department-wide discussion: "What can we do as individuals, a department, and a field to promote diversity, equity, and inclusion?"

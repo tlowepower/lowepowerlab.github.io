@@ -5,8 +5,6 @@ permalink: /resources/
 
 # Inclusion, Diversity, and Equity resources
 
-[Dr. Beronda Montgomery's Keynote Talk](https://www.youtube.com/watch?v=H3QRI7hM9nY&ab_channel=BlackInMicrobiology) for #BlackInMicrobiology week 2020. An excellent presentation and Q&A to watch to understand the importance of an inclusive climate and mentoring and for wisdom about developing your academic path.  
-
 ## Imposter Syndrome and Mental Health Resources
 
 * [Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
@@ -14,6 +12,10 @@ permalink: /resources/
 * UC Davis has Therapists who serve as bridges to help navigate acute and chronic mental health:
  * [Academic and Staff Assistance Program](https://www.hr.ucdavis.edu/departments/asap) for graduate students, postdocs, faculty, and other UC Davis employees.
  * [Counseling Services through Graduate Studies](https://grad.ucdavis.edu/resources/help-and-support/mental-health-and-counseling) -- a second resource for graduate students.
+ 
+## Building inclusion
+* [How LGBT+ scientists would like to be included and welcomed in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3). Highly recommended reading for examples of how to welcome and build inclusion for marginalized scientists. 
+* [Dr. Beronda Montgomery's Keynote Talk](https://www.youtube.com/watch?v=H3QRI7hM9nY&ab_channel=BlackInMicrobiology) for #BlackInMicrobiology week 2020. An excellent presentation and Q&A to watch to understand the importance of an inclusive climate and mentoring and for wisdom about developing your academic path.  1 hr and worth it. 
 
 ## Avoiding Implicit Bias in reading & writing Letters of Recommendation 
 * [Avoiding racial bias](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
@@ -67,8 +69,10 @@ Curated from diverse sources that are hopefully cited properly.
 * Lecture 4: [**Writing Strategies**](
 https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7MnG6owzJlY?startTime=1587754603000)
 
-## Data Visualization
+## Stats and Data Visualization
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodesk.com/research/publications/same-stats-different-graphs)
+* ["If your P value looks too good to be true, it probably is: Communicating reproducibility and variability in cell biology"](https://arxiv.org/abs/1911.03509). A humorous guide to common pitfalls in statistical analysis. The PDF is in the upper right corner. This guide was also published in a journal, but the editor removed the jokes. 
+* **Graphpad Prism's guide to statistics**. Google for this and find the recent version.  This guide is written for research biologists and uses a lot of common examples that we are familiar with.  It will help you verify that your data fit the assumptions for the statistcal tests that you want to perform. 
 
 ## Scientific Writing
 * [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
