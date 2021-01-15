@@ -28,7 +28,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **PhD Plant Pathology** UC-Riverside <br>
 **B.S. Biochemistry & Molecular Biology** UC-Davis <br>
 
-<br><br><br><br>
+<br><br><br>
 
 ![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
 **Becca Schomer** <br> 
@@ -40,7 +40,7 @@ Co-Mentored by Dr. Becky Parales
 [**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br><br><br>
 
 
-<br><br><br><br><br><br>
+<br><br><br>
 ## Graduate Student Researchers
 ![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
 **Jonathan Beutler** <br> 
@@ -51,7 +51,7 @@ Co-Mentored by Dr. Becky Parales
 <br><br><br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
 
-<br>
+
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
@@ -73,7 +73,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 
 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 
 
@@ -81,7 +81,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 **Grace Lankford** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 
