@@ -16,6 +16,7 @@ permalink: /resources/
 ## Building inclusion
 * [How LGBT+ scientists would like to be included and welcomed in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3). Highly recommended reading for examples of how to welcome and build inclusion for marginalized scientists. 
 * [Dr. Beronda Montgomery's Keynote Talk](https://www.youtube.com/watch?v=H3QRI7hM9nY&ab_channel=BlackInMicrobiology) for #BlackInMicrobiology week 2020. An excellent presentation and Q&A to watch to understand the importance of an inclusive climate and mentoring and for wisdom about developing your academic path.  1 hr and worth it. 
+* [Compilation of published DEI studies and guidelines; compiled by WISELI at UW-Madison](https://www.zotero.org/groups/178520/wiseli_library/collections/2ZEMARBE)
 
 ## Avoiding Implicit Bias in reading & writing Letters of Recommendation 
 * [Avoiding racial bias](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
