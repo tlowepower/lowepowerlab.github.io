@@ -84,6 +84,7 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 
 ### Grant Writing
 * [Advice on applying for the NSF Graduate Research Fellowship Program (GRFP)](https://www.youtube.com/watch?v=gI7c_gTftAo&feature=youtu.be) Webinar by Kelsey Wood. (Released in 2020, so details will change. But Kelsey provides timeless advice about the program) 
+  * [Additional advice for NSF GRFPs that involve pathogens of plants](https://kelseywooddotcom.wordpress.com/2019/09/30/changing-times-and-rolling-the-dice-the-new-nsf-grfp-rules-and-how-you-can-maximize-your-odds-for-success/)
 * [Advice for a Strong NSF Standard proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
 * [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
 
